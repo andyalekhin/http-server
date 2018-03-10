@@ -1,0 +1,15 @@
+{
+  "name": "http-server",
+  "version": "1.0.0",
+  "description": "simple http-server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "andyalekhin",
+  "license": "ISC",
+  "dependencies": {
+    "querystring": "^0.2.0"
+  }
+}
